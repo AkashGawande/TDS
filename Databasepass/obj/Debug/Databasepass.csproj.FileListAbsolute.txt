@@ -1,0 +1,9 @@
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.csprojResolveAssemblyReference.cache
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.Form1.resources
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.Properties.Resources.resources
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.csproj.GenerateResource.Cache
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.exe
+E:\Akash\Project\Demo\Databasepass\Databasepass\obj\Debug\Databasepass.pdb
+E:\Akash\Project\Demo\Databasepass\Databasepass\bin\Debug\DB\New.accdb
+E:\Akash\Project\Demo\Databasepass\Databasepass\bin\Debug\Databasepass.exe
+E:\Akash\Project\Demo\Databasepass\Databasepass\bin\Debug\Databasepass.pdb
