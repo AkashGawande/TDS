@@ -16,3 +16,12 @@ E:\Akash\TDS Working From(04-07-2018)\Project\Databasepass\obj\Debug\Databasepas
 E:\Akash\TDS Working From(04-07-2018)\Project\Databasepass\obj\Debug\Databasepass.Form1.resources
 E:\Akash\TDS Working From(04-07-2018)\Project\Databasepass\obj\Debug\Databasepass.Properties.Resources.resources
 E:\Akash\TDS Working From(04-07-2018)\Project\Databasepass\obj\Debug\Databasepass.csproj.GenerateResource.Cache
+D:\Kahipan dya\Databasepass\bin\Debug\DB\New.accdb
+D:\Kahipan dya\Databasepass\bin\Debug\Databasepass.exe
+D:\Kahipan dya\Databasepass\bin\Debug\Databasepass.pdb
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.csprojResolveAssemblyReference.cache
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.Form1.resources
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.Properties.Resources.resources
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.csproj.GenerateResource.Cache
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.exe
+D:\Kahipan dya\Databasepass\obj\Debug\Databasepass.pdb
