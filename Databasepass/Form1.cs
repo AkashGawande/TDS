@@ -138,5 +138,10 @@ namespace Databasepass
         {
             showdata("");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Successfully deleted");
+        }
     }
 }
